@@ -34,8 +34,8 @@
 |:-----:|:-----:|:---:|:---:|:---:|
 |**오목**|03-14~03-31|[repository](https://github.com/otter66/kotlin-omok)|[PR1](https://github.com/woowacourse/kotlin-omok/pull/9) <br> [PR2](https://github.com/woowacourse/kotlin-omok/pull/46)|Adapter pattern, SQLite, Android|
 |**블랙잭**|02-28~03-13|[repository](https://github.com/otter66/kotlin-blackjack)|[PR1](https://github.com/woowacourse/kotlin-blackjack/pull/24) <br> [PR2](https://github.com/woowacourse/kotlin-blackjack/pull/58)|enum, lambda, 함수형 프로그래밍|
-|**로또**|02-14~02-27|[repository](https://github.com/otter66/kotlin-lotto)|[PR1](https://github.com/woowacourse/kotlin-lotto/pull/13) <br> [PR2](https://github.com/woowacourse/kotlin-lotto/pull/53)|TDD, OOP, 원시값 포장, 점진적 리팩터링, 예외처리, 방어적 복사|
-|**자동차 경주**|02-07~02-13|[repository](https://github.com/otter66/kotlin-racingcar)|[PR1](https://github.com/woowacourse/kotlin-racingcar/pull/48) <br> [PR2](https://github.com/woowacourse/kotlin-racingcar/pull/77)|학습 테스트, 단위 테스트, MVC 패턴, 역컴파일|
+|**로또**|02-14~02-27|[repository](https://github.com/otter66/kotlin-lotto)|[PR1](https://github.com/woowacourse/kotlin-lotto/pull/13) <br> [PR2](https://github.com/woowacourse/kotlin-lotto/pull/53)|TDD, OOP, 원시값 포장, <br> 점진적 리팩터링, 예외처리, 방어적 복사|
+|**자동차 경주**|02-07~02-13|[repository](https://github.com/otter66/kotlin-racingcar)|[PR1](https://github.com/woowacourse/kotlin-racingcar/pull/48) <br> [PR2](https://github.com/woowacourse/kotlin-racingcar/pull/77)|학습 테스트, 단위 테스트, <br> MVC 패턴, 역컴파일|
 
 <br>
 
