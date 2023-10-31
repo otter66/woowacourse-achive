@@ -10,7 +10,7 @@
 
 | Project | Period | Repository | PR & Review | Keyword |
 |:-----:|:-----:|:---:|:---:|:---:|
-|**그림판**|09-26~10-16|[repository](https://github.com/otter66/android-paint)|[PR1](https://github.com/woowacourse/android-paint/pull/24) <br> [PR1](https://github.com/woowacourse/android-paint/pull/39) <br> [PR3](https://github.com/woowacourse/android-paint/pull/68)|Path, Rect, TouchEvent|
+|**그림판**|09-26~10-16|[repository](https://github.com/otter66/android-paint)|[PR1](https://github.com/woowacourse/android-paint/pull/24) <br> [PR2](https://github.com/woowacourse/android-paint/pull/39) <br> [PR3](https://github.com/woowacourse/android-paint/pull/68)|Path, Rect, TouchEvent|
 |**DI 라이브러리**|08-31~09-25|[repository](https://github.com/otter66/android-di)|[PR1](https://github.com/woowacourse/android-di/pull/21) <br> [PR2](https://github.com/woowacourse/android-di/pull/48) <br> [PR3](https://github.com/woowacourse/android-di/pull/67) <br> [PR4](https://github.com/woowacourse/android-di/pull/81)|Reflection, DI, Hilt, LifeCycle|
 
 <br/>
