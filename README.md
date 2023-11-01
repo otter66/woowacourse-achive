@@ -7,6 +7,7 @@
 - [🖊️ 팀 블로그](https://tripdraw.blog/archive)
 
 ### 📌 Level 4 개별 미션
+- [🖊️ 정리](https://korean-otter.tistory.com/237)
 
 | Project | Period | Repository | PR & Review | Keyword |
 |:-----:|:-----:|:---:|:---:|:---:|
@@ -53,6 +54,6 @@
 <br/>
 
 ## 📔 기타
-
 - [🔗 테코톡 : 테스트 더블과 Presenter 테스트](https://www.youtube.com/watch?v=A0TB7qG-JBE)
+- [🔗 글쓰기 미션](https://github.com/otter66/woowa-writing-5)
 
